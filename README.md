@@ -6,7 +6,7 @@ Explore and preprocess the Titanic dataset to handle missing values, encode cate
 ## Tools & Libraries  
 - **Python, Pandas, NumPy**  
 - **Matplotlib, Seaborn**  
-- 
+  
 
 ## Summary of Steps  
 - Loaded dataset and examined its structure and basic statistics  
