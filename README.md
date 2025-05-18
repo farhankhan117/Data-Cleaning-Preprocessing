@@ -21,5 +21,5 @@ The dataset is now clean, with no missing values and correctly encoded categoric
 
 ## Project Files  
 - `Titanic-Dataset.csv` - Raw data  
-- `titanic_cleaning.ipynb` - Data cleaning and preprocessing code  
+- `Data_Cleaning_and_Preprocessing.ipynb` - Data cleaning and preprocessing code  
 - `README.md` - This summary
